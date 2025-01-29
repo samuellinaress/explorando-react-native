@@ -1,0 +1,48 @@
+export const unidades = [
+  "",
+  "uno",
+  "dos",
+  "tres",
+  "cuatro",
+  "cinco",
+  "seis",
+  "siete",
+  "ocho",
+  "nueve",
+];
+export const especiales = [
+  "diez",
+  "once",
+  "doce",
+  "trece",
+  "catorce",
+  "quince",
+  "dieciséis",
+  "diecisiete",
+  "dieciocho",
+  "diecinueve",
+];
+export const decenas = [
+  "",
+  "diez",
+  "veinte",
+  "treinta",
+  "cuarenta",
+  "cincuenta",
+  "sesenta",
+  "setenta",
+  "ochenta",
+  "noventa",
+];
+export const centenas = [
+  "",
+  "cien",
+  "doscientos",
+  "trescientos",
+  "cuatrocientos",
+  "quinientos",
+  "seiscientos",
+  "setecientos",
+  "ochocientos",
+  "novecientos",
+];
